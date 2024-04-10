@@ -22,7 +22,7 @@ Este aplicativo é uma plataforma para criar, visualizar, editar e excluir (CRUD
 
 ## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL) para orientações detalhadas.
+   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql`. 
 
 2. **Configuração do JS:**
    - Abra o arquivo `./CODIGO/models/db.js` e ajuste as configurações do seu banco de dados nos parâmetros de `sequelize`:
